@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavindu Lakmal
 - 👀 I’m interested in Arduino
-- 🌱 I’m currently learning JAVA , WEB 
+- 🌱 I’m currently learning JAVA , WEB Development
 - 📫 You can reach me from kavindulakmal2000@gamil.com
 
 <!---
