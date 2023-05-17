@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Kavindu Lakmal. I'm 22 years old. I'm From Sri Lanka.
+- 👋 Hi, My name is Kavindu Lakmal. I'm 23 years old. I'm From Sri Lanka.
 - 👀 I’m interested in Arduino & NodeMCU programming.
 - 👀 Working on IOT and Home Automation Systems.
 - 🌱 I’m currently learning JAVA, WEB Development, C#, python, C++, C, JS
