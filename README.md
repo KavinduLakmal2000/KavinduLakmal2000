@@ -5,8 +5,6 @@
 - 📫 You can reach me from kavindulakmal2000@gamil.com
 - 📫 MY Linkedin Profile https://www.linkedin.com/in/kavindu-lakmal-59a47421a
 - 📫 My Instagram https://www.instagram.com/kavindu___lakmal/
-  
-Just a random guy, who loves to play with computers and electronics!
 
 
 <!---
